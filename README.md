@@ -1,4 +1,4 @@
-en... we have
+🛒🛍️ en... we have
 
 EMMO:
 
