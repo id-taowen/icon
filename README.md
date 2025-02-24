@@ -14,4 +14,4 @@ Craft:
 
 GoodNote：
 
-    https://github.com/id-taowen/icon/blob/main/Goodnotes%206.png
+    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/Goodnotes%206.png
