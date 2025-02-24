@@ -2,11 +2,11 @@
 
 EMMO:
 
-    https://raw.githubusercontent.com/id-taowen/icon/main/EMMO.png
+    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/EMMO.png
 
 YouTube Music:
 
-    https://raw.githubusercontent.com/id-taowen/icon/main/YouTube%20Music.PNG
+    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/YouTube%20Music.PNG20Music.PNG
 
 Craft:
 
