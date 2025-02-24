@@ -6,7 +6,7 @@ EMMO:
 
 YouTube Music:
 
-    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/YouTube%20Music.PNG20Music.PNG
+    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/YouTube%20Music.PNG20Music.png
 
 Craft:
 
