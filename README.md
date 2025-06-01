@@ -15,3 +15,7 @@ Craft:
 GoodNote：
 
     https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/Goodnotes%206.png
+
+Reddit:
+
+    https://raw.githubusercontent.com/id-taowen/icon/refs/heads/main/Reddit.png
